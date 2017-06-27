@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Modularization.iml" filepath="$PROJECT_DIR$/Modularization.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/commonmodule/commonmodule.iml" filepath="$PROJECT_DIR$/commonmodule/commonmodule.iml" />
+      <module fileurl="file://$PROJECT_DIR$/customerservicemodule/customerservicemodule.iml" filepath="$PROJECT_DIR$/customerservicemodule/customerservicemodule.iml" />
+      <module fileurl="file://$PROJECT_DIR$/custoshopmodule/custoshopmodule.iml" filepath="$PROJECT_DIR$/custoshopmodule/custoshopmodule.iml" />
+      <module fileurl="file://$PROJECT_DIR$/loginmodule/loginmodule.iml" filepath="$PROJECT_DIR$/loginmodule/loginmodule.iml" />
+      <module fileurl="file://$PROJECT_DIR$/route/route.iml" filepath="$PROJECT_DIR$/route/route.iml" />
+      <module fileurl="file://$PROJECT_DIR$/shopbusinessmodule/shopbusinessmodule.iml" filepath="$PROJECT_DIR$/shopbusinessmodule/shopbusinessmodule.iml" />
+    </modules>
+  </component>
+</project>

@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Modularization</string>
+
+    <array name="titleArray">
+        <item>微客服</item>
+        <item>客来店</item>
+        <item>旺铺</item>
+    </array>
+
+    <array name="titleo2oArray">
+        <item>会员</item>
+        <item>门店</item>
+    </array>
+</resources>
